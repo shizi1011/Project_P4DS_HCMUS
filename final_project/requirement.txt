@@ -1,4 +1,11 @@
+ipykernel
+ipywidgets
+pandas
+matplotlib
+seaborn
+scikit-learn
 streamlit
 imbalance
 feature_engine
 yellowbrick
+openpyxl
